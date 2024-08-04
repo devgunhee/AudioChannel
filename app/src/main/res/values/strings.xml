@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ComposeAudioChannel</string>
+    <string name="channel_number">%02d</string>
+</resources>
