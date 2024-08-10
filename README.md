@@ -1,6 +1,6 @@
 # AudioChannel (Compose)
 
-### Audio Channel UI with infinite Pager
+### Audio Channel Android App with Infinite Pager
 <img src="/previews/app_introduce.gif" align="center" width="1000"/>
 <br/><br/>
 
